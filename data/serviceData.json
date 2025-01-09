@@ -1,0 +1,214 @@
+{
+  "ServiceData": [
+    {
+      "id": 1,
+      "slug": "investment-bank",
+      "title": "Investment Banks",
+      "excerpt": "Until recently, the prevailing view asumed lorem ipsum was born as nonsense text.",
+      "iconLight": "/images/services/investment.svg",
+      "iconDark": "/images/services/investment-dark.svg",
+      "featureImage": "/images/services/service-single1.png",
+      "videoLink": "https://www.youtube.com/embed/YE7VzlLtp-4?si=XvNRN6ztByvZQzqh",
+      "serviceDetails": "Lorem ipsum dolor sit amet consectetur. Nullam blandit dui gravida aliquam enim eu. Adipiscing viverra vulputate curabitur est. Morbi lorem proin morbi tempor risus. Nisl lobortis diam id faucibus pretium vitae suspendisse sed accumsan. Sodales morbi tristique elit cursus gravida. Ullamcorper commodo eget pulvinar pretium. Condimentum rhoncus commodo amet nec auctor nibh vel mi blandit. Neque ultrices nunc condimentum morbi risus tincidunt. Vel arcu lacus non ornare. Porttitor in rhoncus magna augue adipiscing.",
+      "serviceExpectation": "Morbi lorem proin morbi tempor risus. Nisl lobortis diam id faucibus pretium vitae suspendisse sed accumsan. Sodales morbi tristique elit cursus gravida. Ullamcorper commodo eget pulvinar pretium. Condimentum rhoncus commodo amet nec auctor nibh vel mi blandit. Neque ultrices nunc condimentum morbi risus tincidunt. Vel arcu lacus non ornare. Porttitor in rhoncus magna augue adipiscing.",
+      "serviceExpectationList": [
+        {
+          "item": "It’s scalable and secure"
+        },
+        {
+          "item": "Artificial Intelligence Feature"
+        },
+        {
+          "item": "Offline version available"
+        }
+      ],
+      "serviceQualifications": "Morbi lorem proin morbi tempor risus. Nisl lobortis diam id faucibus pretium vitae suspendisse sed accumsan. Sodales morbi tristique elit cursus gravida. Ullamcorper commodo eget pulvinar pretium. Condimentum rhoncus commodo amet nec auctor nibh vel mi blandit. Neque ultrices nunc condimentum morbi risus tincidunt. Vel arcu lacus non ornare. Porttitor in rhoncus magna augue adipiscing.",
+      "serviceQualificationsList": [
+        {
+          "item": "It’s scalable and secure"
+        },
+        {
+          "item": "Artificial Intelligence Feature"
+        },
+        {
+          "item": "Offline version available"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "slug": "sales",
+      "title": "Sales & Trading",
+      "excerpt": "Until recently, the prevailing view asumed lorem ipsum was born as nonsense text.",
+      "iconLight": "/images/services/sales.svg",
+      "iconDark": "/images/services/sales-dark.svg",
+      "featureImage": "/images/services/service-single1.png",
+      "videoLink": "https://www.youtube.com/embed/YE7VzlLtp-4?si=XvNRN6ztByvZQzqh",
+      "serviceDetails": "Lorem ipsum dolor sit amet consectetur. Nullam blandit dui gravida aliquam enim eu. Adipiscing viverra vulputate curabitur est. Morbi lorem proin morbi tempor risus. Nisl lobortis diam id faucibus pretium vitae suspendisse sed accumsan. Sodales morbi tristique elit cursus gravida. Ullamcorper commodo eget pulvinar pretium. Condimentum rhoncus commodo amet nec auctor nibh vel mi blandit. Neque ultrices nunc condimentum morbi risus tincidunt. Vel arcu lacus non ornare. Porttitor in rhoncus magna augue adipiscing.",
+      "serviceExpectation": "Morbi lorem proin morbi tempor risus. Nisl lobortis diam id faucibus pretium vitae suspendisse sed accumsan. Sodales morbi tristique elit cursus gravida. Ullamcorper commodo eget pulvinar pretium. Condimentum rhoncus commodo amet nec auctor nibh vel mi blandit. Neque ultrices nunc condimentum morbi risus tincidunt. Vel arcu lacus non ornare. Porttitor in rhoncus magna augue adipiscing.",
+      "serviceExpectationList": [
+        {
+          "item": "It’s scalable and secure"
+        },
+        {
+          "item": "Artificial Intelligence Feature"
+        },
+        {
+          "item": "Offline version available"
+        }
+      ],
+      "serviceQualifications": "Morbi lorem proin morbi tempor risus. Nisl lobortis diam id faucibus pretium vitae suspendisse sed accumsan. Sodales morbi tristique elit cursus gravida. Ullamcorper commodo eget pulvinar pretium. Condimentum rhoncus commodo amet nec auctor nibh vel mi blandit. Neque ultrices nunc condimentum morbi risus tincidunt. Vel arcu lacus non ornare. Porttitor in rhoncus magna augue adipiscing.",
+      "serviceQualificationsList": [
+        {
+          "item": "It’s scalable and secure"
+        },
+        {
+          "item": "Artificial Intelligence Feature"
+        },
+        {
+          "item": "Offline version available"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "slug": "mortage-loan",
+      "title": "Mortgage Loans",
+      "excerpt": "Until recently, the prevailing view asumed lorem ipsum was born as nonsense text.",
+      "iconLight": "/images/services/loan.svg",
+      "iconDark": "/images/services/loan-dark.svg",
+      "featureImage": "/images/services/service-single1.png",
+      "videoLink": "https://www.youtube.com/embed/YE7VzlLtp-4?si=XvNRN6ztByvZQzqh",
+      "serviceDetails": "Lorem ipsum dolor sit amet consectetur. Nullam blandit dui gravida aliquam enim eu. Adipiscing viverra vulputate curabitur est. Morbi lorem proin morbi tempor risus. Nisl lobortis diam id faucibus pretium vitae suspendisse sed accumsan. Sodales morbi tristique elit cursus gravida. Ullamcorper commodo eget pulvinar pretium. Condimentum rhoncus commodo amet nec auctor nibh vel mi blandit. Neque ultrices nunc condimentum morbi risus tincidunt. Vel arcu lacus non ornare. Porttitor in rhoncus magna augue adipiscing.",
+      "serviceExpectation": "Morbi lorem proin morbi tempor risus. Nisl lobortis diam id faucibus pretium vitae suspendisse sed accumsan. Sodales morbi tristique elit cursus gravida. Ullamcorper commodo eget pulvinar pretium. Condimentum rhoncus commodo amet nec auctor nibh vel mi blandit. Neque ultrices nunc condimentum morbi risus tincidunt. Vel arcu lacus non ornare. Porttitor in rhoncus magna augue adipiscing.",
+      "serviceExpectationList": [
+        {
+          "item": "It’s scalable and secure"
+        },
+        {
+          "item": "Artificial Intelligence Feature"
+        },
+        {
+          "item": "Offline version available"
+        }
+      ],
+      "serviceQualifications": "Morbi lorem proin morbi tempor risus. Nisl lobortis diam id faucibus pretium vitae suspendisse sed accumsan. Sodales morbi tristique elit cursus gravida. Ullamcorper commodo eget pulvinar pretium. Condimentum rhoncus commodo amet nec auctor nibh vel mi blandit. Neque ultrices nunc condimentum morbi risus tincidunt. Vel arcu lacus non ornare. Porttitor in rhoncus magna augue adipiscing.",
+      "serviceQualificationsList": [
+        {
+          "item": "It’s scalable and secure"
+        },
+        {
+          "item": "Artificial Intelligence Feature"
+        },
+        {
+          "item": "Offline version available"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "slug": "finance-analyse",
+      "title": "Finance Analysis",
+      "excerpt": "Until recently, the prevailing view asumed lorem ipsum was born as nonsense text.",
+      "iconLight": "/images/services/finance.svg",
+      "iconDark": "/images/services/finance-dark.svg",
+      "featureImage": "/images/services/service-single1.png",
+      "videoLink": "https://www.youtube.com/embed/YE7VzlLtp-4?si=XvNRN6ztByvZQzqh",
+      "serviceDetails": "Lorem ipsum dolor sit amet consectetur. Nullam blandit dui gravida aliquam enim eu. Adipiscing viverra vulputate curabitur est. Morbi lorem proin morbi tempor risus. Nisl lobortis diam id faucibus pretium vitae suspendisse sed accumsan. Sodales morbi tristique elit cursus gravida. Ullamcorper commodo eget pulvinar pretium. Condimentum rhoncus commodo amet nec auctor nibh vel mi blandit. Neque ultrices nunc condimentum morbi risus tincidunt. Vel arcu lacus non ornare. Porttitor in rhoncus magna augue adipiscing.",
+      "serviceExpectation": "Morbi lorem proin morbi tempor risus. Nisl lobortis diam id faucibus pretium vitae suspendisse sed accumsan. Sodales morbi tristique elit cursus gravida. Ullamcorper commodo eget pulvinar pretium. Condimentum rhoncus commodo amet nec auctor nibh vel mi blandit. Neque ultrices nunc condimentum morbi risus tincidunt. Vel arcu lacus non ornare. Porttitor in rhoncus magna augue adipiscing.",
+      "serviceExpectationList": [
+        {
+          "item": "It’s scalable and secure"
+        },
+        {
+          "item": "Artificial Intelligence Feature"
+        },
+        {
+          "item": "Offline version available"
+        }
+      ],
+      "serviceQualifications": "Morbi lorem proin morbi tempor risus. Nisl lobortis diam id faucibus pretium vitae suspendisse sed accumsan. Sodales morbi tristique elit cursus gravida. Ullamcorper commodo eget pulvinar pretium. Condimentum rhoncus commodo amet nec auctor nibh vel mi blandit. Neque ultrices nunc condimentum morbi risus tincidunt. Vel arcu lacus non ornare. Porttitor in rhoncus magna augue adipiscing.",
+      "serviceQualificationsList": [
+        {
+          "item": "It’s scalable and secure"
+        },
+        {
+          "item": "Artificial Intelligence Feature"
+        },
+        {
+          "item": "Offline version available"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "slug": "effeciency",
+      "title": "Increased Efficiency",
+      "excerpt": "Until recently, the prevailing view asumed lorem ipsum was born as nonsense text.",
+      "iconLight": "/images/services/effeciency.svg",
+      "iconDark": "/images/services/effeciency-dark.svg",
+      "featureImage": "/images/services/service-single1.png",
+      "videoLink": "https://www.youtube.com/embed/YE7VzlLtp-4?si=XvNRN6ztByvZQzqh",
+      "serviceDetails": "Lorem ipsum dolor sit amet consectetur. Nullam blandit dui gravida aliquam enim eu. Adipiscing viverra vulputate curabitur est. Morbi lorem proin morbi tempor risus. Nisl lobortis diam id faucibus pretium vitae suspendisse sed accumsan. Sodales morbi tristique elit cursus gravida. Ullamcorper commodo eget pulvinar pretium. Condimentum rhoncus commodo amet nec auctor nibh vel mi blandit. Neque ultrices nunc condimentum morbi risus tincidunt. Vel arcu lacus non ornare. Porttitor in rhoncus magna augue adipiscing.",
+      "serviceExpectation": "Morbi lorem proin morbi tempor risus. Nisl lobortis diam id faucibus pretium vitae suspendisse sed accumsan. Sodales morbi tristique elit cursus gravida. Ullamcorper commodo eget pulvinar pretium. Condimentum rhoncus commodo amet nec auctor nibh vel mi blandit. Neque ultrices nunc condimentum morbi risus tincidunt. Vel arcu lacus non ornare. Porttitor in rhoncus magna augue adipiscing.",
+      "serviceExpectationList": [
+        {
+          "item": "It’s scalable and secure"
+        },
+        {
+          "item": "Artificial Intelligence Feature"
+        },
+        {
+          "item": "Offline version available"
+        }
+      ],
+      "serviceQualifications": "Morbi lorem proin morbi tempor risus. Nisl lobortis diam id faucibus pretium vitae suspendisse sed accumsan. Sodales morbi tristique elit cursus gravida. Ullamcorper commodo eget pulvinar pretium. Condimentum rhoncus commodo amet nec auctor nibh vel mi blandit. Neque ultrices nunc condimentum morbi risus tincidunt. Vel arcu lacus non ornare. Porttitor in rhoncus magna augue adipiscing.",
+      "serviceQualificationsList": [
+        {
+          "item": "It’s scalable and secure"
+        },
+        {
+          "item": "Artificial Intelligence Feature"
+        },
+        {
+          "item": "Offline version available"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "slug": "fund",
+      "title": "Fundraising Advice",
+      "excerpt": "Until recently, the prevailing view asumed lorem ipsum was born as nonsense text.",
+      "iconLight": "/images/services/fund.svg",
+      "iconDark": "/images/services/fund-dark.svg",
+      "featureImage": "/images/services/service-single1.png",
+      "videoLink": "https://www.youtube.com/embed/YE7VzlLtp-4?si=XvNRN6ztByvZQzqh",
+      "serviceDetails": "Lorem ipsum dolor sit amet consectetur. Nullam blandit dui gravida aliquam enim eu. Adipiscing viverra vulputate curabitur est. Morbi lorem proin morbi tempor risus. Nisl lobortis diam id faucibus pretium vitae suspendisse sed accumsan. Sodales morbi tristique elit cursus gravida. Ullamcorper commodo eget pulvinar pretium. Condimentum rhoncus commodo amet nec auctor nibh vel mi blandit. Neque ultrices nunc condimentum morbi risus tincidunt. Vel arcu lacus non ornare. Porttitor in rhoncus magna augue adipiscing.",
+      "serviceExpectation": "Morbi lorem proin morbi tempor risus. Nisl lobortis diam id faucibus pretium vitae suspendisse sed accumsan. Sodales morbi tristique elit cursus gravida. Ullamcorper commodo eget pulvinar pretium. Condimentum rhoncus commodo amet nec auctor nibh vel mi blandit. Neque ultrices nunc condimentum morbi risus tincidunt. Vel arcu lacus non ornare. Porttitor in rhoncus magna augue adipiscing.",
+      "serviceExpectationList": [
+        {
+          "item": "It’s scalable and secure"
+        },
+        {
+          "item": "Artificial Intelligence Feature"
+        },
+        {
+          "item": "Offline version available"
+        }
+      ],
+      "serviceQualifications": "Morbi lorem proin morbi tempor risus. Nisl lobortis diam id faucibus pretium vitae suspendisse sed accumsan. Sodales morbi tristique elit cursus gravida. Ullamcorper commodo eget pulvinar pretium. Condimentum rhoncus commodo amet nec auctor nibh vel mi blandit. Neque ultrices nunc condimentum morbi risus tincidunt. Vel arcu lacus non ornare. Porttitor in rhoncus magna augue adipiscing.",
+      "serviceQualificationsList": [
+        {
+          "item": "It’s scalable and secure"
+        },
+        {
+          "item": "Artificial Intelligence Feature"
+        },
+        {
+          "item": "Offline version available"
+        }
+      ]
+    }
+  ]
+}

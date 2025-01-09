@@ -1,0 +1,73 @@
+{
+  "PricingData": [
+    {
+      "id": 1,
+      "featured": false,
+      "title": "Basic",
+      "desc": "The prevailing view assumed lorem ipsum was born as a nonsense text.",
+      "priceMonthly": "19.00",
+      "priceYearly": "230.00",
+      "save": "",
+      "priceList": [
+        {
+          "name": "Track income & expenses"
+        },
+        {
+          "name": "Send custom invoices & quotes"
+        },
+        {
+          "name": "Connect your bank"
+        },
+        {
+          "name": "Insights & reports"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "featured": true,
+      "title": "Standard",
+      "desc": "The prevailing view assumed lorem ipsum was born as a nonsense text.",
+      "priceMonthly": "32.00",
+      "priceYearly": "350.00",
+      "save": "40%",
+      "priceList": [
+        {
+          "name": "Track income & expenses"
+        },
+        {
+          "name": "Send custom invoices & quotes"
+        },
+        {
+          "name": "Connect your bank"
+        },
+        {
+          "name": "Insights & reports"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "featured": false,
+      "title": "Premium",
+      "desc": "The prevailing view assumed lorem ipsum was born as a nonsense text.",
+      "priceMonthly": "48.00",
+      "priceYearly": "530.00",
+      "save": "",
+      "priceList": [
+        {
+          "name": "Track income & expenses"
+        },
+        {
+          "name": "Send custom invoices & quotes"
+        },
+        {
+          "name": "Connect your bank"
+        },
+        {
+          "name": "Insights & reports"
+        }
+      ]
+    }
+  ]
+}

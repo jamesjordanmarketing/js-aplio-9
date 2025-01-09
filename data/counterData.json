@@ -1,0 +1,22 @@
+{
+  "CounterData": [
+    {
+      "id": 1,
+      "number": "60",
+      "rightIcon": "%",
+      "text": "Project Completed"
+    },
+    {
+      "id": 2,
+      "number": "30",
+      "rightIcon": "+",
+      "text": "Team Members"
+    },
+    {
+      "id": 3,
+      "number": "40",
+      "rightIcon": "K",
+      "text": "Satisfied Clients"
+    }
+  ]
+}

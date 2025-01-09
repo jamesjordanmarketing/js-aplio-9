@@ -1,0 +1,34 @@
+{
+  "ClientData": [
+    {
+      "id": 1,
+      "imageLight": "/images/clients/group.svg",
+      "imageDark": "/images/clients/group-dark.svg"
+    },
+    {
+      "id": 2,
+      "imageLight": "/images/clients/infinity.svg",
+      "imageDark": "/images/clients/infinity-dark.svg"
+    },
+    {
+      "id": 3,
+      "imageLight": "/images/clients/artifact.svg",
+      "imageDark": "/images/clients/artifact-dark.svg"
+    },
+    {
+      "id": 4,
+      "imageLight": "/images/clients/caudile.svg",
+      "imageDark": "/images/clients/caudile-dark.svg"
+    },
+    {
+      "id": 5,
+      "imageLight": "/images/clients/axeptio.svg",
+      "imageDark": "/images/clients/axeptio-dark.svg"
+    },
+    {
+      "id": 6,
+      "imageLight": "/images/clients/mfinity.svg",
+      "imageDark": "/images/clients/mfinity-dark.svg"
+    }
+  ]
+}

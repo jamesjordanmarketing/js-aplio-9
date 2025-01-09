@@ -1,0 +1,25 @@
+{
+  "PaymentFeaturesData": [
+    {
+      "id": 1,
+      "iconLight": "/images/payment/paymentFeature.svg",
+      "iconDark": "/images/payment/paymentFeature-dark.svg",
+      "title": "Useful Features",
+      "desc": "The prevailing view asumed lorem ipsum was born as nonsense text."
+    },
+    {
+      "id": 2,
+      "iconLight": "/images/payment/payementSecure.svg",
+      "iconDark": "/images/payment/payementSecure-dark.svg",
+      "title": "100% Secure",
+      "desc": "The prevailing view asumed lorem ipsum was born as nonsense text."
+    },
+    {
+      "id": 3,
+      "iconLight": "/images/payment/paymentCashback.svg",
+      "iconDark": "/images/payment/paymentCashback-dark.svg",
+      "title": "Cashback Program",
+      "desc": "The prevailing view asumed lorem ipsum was born as nonsense text."
+    }
+  ]
+}

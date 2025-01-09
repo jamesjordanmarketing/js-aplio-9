@@ -1,0 +1,25 @@
+{
+  "BankingServicesData": [
+    {
+      "id": 1,
+      "iconLight": "/images/banking/agent.svg",
+      "iconDark": "/images/banking/agent-dark.svg",
+      "title": "Agent Banking",
+      "desc": "The prevailing view asumed lorem ipsum was born as nonsense text."
+    },
+    {
+      "id": 2,
+      "iconLight": "/images/banking/savings.svg",
+      "iconDark": "/images/banking/savings-dark.svg",
+      "title": "Savings Account",
+      "desc": "The prevailing view asumed lorem ipsum was born as nonsense text."
+    },
+    {
+      "id": 3,
+      "iconLight": "/images/banking/interest.svg",
+      "iconDark": "/images/banking/interest-dark.svg",
+      "title": "Low Interest",
+      "desc": "The prevailing view asumed lorem ipsum was born as nonsense text."
+    }
+  ]
+}

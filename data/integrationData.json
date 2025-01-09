@@ -1,0 +1,40 @@
+{
+  "IntegrationData": [
+    {
+      "id": 1,
+      "image": "/images/figma.svg",
+      "title": "Figma",
+      "details": "The prevailing view asumed lorem ipsum was born as nonsense text."
+    },
+    {
+      "id": 2,
+      "image": "/images/dropbox.svg",
+      "title": "Dropbox",
+      "details": "The prevailing view asumed lorem ipsum was born as nonsense text."
+    },
+    {
+      "id": 3,
+      "image": "/images/twitter.svg",
+      "title": "Twitter/X",
+      "details": "The prevailing view asumed lorem ipsum was born as nonsense text."
+    },
+    {
+      "id": 4,
+      "image": "/images/slack.svg",
+      "title": "Slack",
+      "details": "The prevailing view asumed lorem ipsum was born as nonsense text."
+    },
+    {
+      "id": 5,
+      "image": "/images/google-drive.svg",
+      "title": "Google Drive",
+      "details": "The prevailing view asumed lorem ipsum was born as nonsense text."
+    },
+    {
+      "id": 6,
+      "image": "/images/asana.svg",
+      "title": "Asana",
+      "details": "The prevailing view asumed lorem ipsum was born as nonsense text."
+    }
+  ]
+}
